@@ -1,0 +1,9 @@
+This is a simple unit-testing framework where specific Pachi routines
+can be checked for proper result on given testcases (board pieces).
+Run the unit tests like:
+
+	./pachi -u t-unit/sar.t
+	./pachi -u t-unit/ladder.t
+	./pachi -u t-unit/moggy.t
+        ...
+
